@@ -8,3 +8,4 @@ void destroyHashTable(HashTable* &hTable);
 void addToHashTable(HashTable* hTable, char string[]);
 int hashFunction(char string[]);
 HashTable* createHashTable();
+// this is real program

@@ -1,4 +1,5 @@
 // Lists with strings for hash tables
+//check
 #pragma once
 struct ListElement
 {

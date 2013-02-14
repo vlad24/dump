@@ -1,6 +1,6 @@
 #include "graph24.h"
 #include <stdio.h>
-
+//
 Graph* createGraphFromFile(FILE* file)
 {
 	
